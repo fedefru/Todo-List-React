@@ -6,7 +6,6 @@ Para ejecutar el proyecto debe usar los comandos:
 $ npm install
 ```
 
-Second Tab:
 ```sh
 $ npm start
 ```

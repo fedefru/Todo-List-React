@@ -1,4 +1,4 @@
-Para ejecutar el proyecto usted debe usar los comandos
+#Para ejecutar el proyecto usted debe usar los comandos
 
   - npm install 
   - npm start 
